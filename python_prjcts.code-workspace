@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Sites/localhost"
+		},
+		{
+			"path": "../../node_projects"
+		},
+		{
+			"path": "../../CPP_projects"
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "v0.8.21+commit.d9974bed"
+	}
+}
